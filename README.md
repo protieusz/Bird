@@ -4,7 +4,7 @@ Bird, a variant mod of the Crowboard.  39 keys with a 25mm trackball in the cent
 # Descripton
 Bird is a heavily modified version of Crowboard which has been blessed by Doesntfazer | Keyboarddweebs.net himself for the mod. [Crowboard](https://github.com/doesntfazer/CrowBoard) was originally designed by Doesntfazer.
 
-A List Of Mods Made To The Original files by Doesntfazer:
+# A List Of Mods Made To The Original files by Doesntfazer:
 
 -A circular hole was created in the middle that can accomodate either a 25mm trackball powered by PMW3360 sensor.
 
