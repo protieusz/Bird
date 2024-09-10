@@ -1,11 +1,28 @@
 # Bird
 Bird, a variant mod of the Crowboard.  39 keys with a 25mm trackball in the center powered by RP2040-Core A.
 
+# Full Production Pics
+
+![IMG_2923](https://github.com/user-attachments/assets/660b9508-8481-4799-aee5-5e8ed14e3aaf)
+![IMG_2921](https://github.com/user-attachments/assets/5e4adb37-dcd3-443a-bfdd-120370048ac9)
+![IMG_2922](https://github.com/user-attachments/assets/4efa7e1b-a472-4613-ae05-a752e878669c)
+![IMG_2913](https://github.com/user-attachments/assets/63c50333-0970-4631-9ecf-0b6feea52a36)
+![IMG_2914](https://github.com/user-attachments/assets/6793f28c-c606-4cff-8363-496c2cff19d1)
+![IMG_2915](https://github.com/user-attachments/assets/c65d41c5-7a6b-4290-ae6f-33d95b3cf4f0)
+![IMG_2912](https://github.com/user-attachments/assets/51b3039b-538f-4172-9dc2-85421b86df5b)
+![IMG_2911](https://github.com/user-attachments/assets/3c4f82d6-286b-4a0c-bbad-8d53af9992f5)
+![IMG_2910](https://github.com/user-attachments/assets/052a2b02-6b55-4a4c-8fce-bd913c8941f5)
+![IMG_2909](https://github.com/user-attachments/assets/b1c5ebd6-da05-4490-be57-3e07318ad283)
+![IMG_2906](https://github.com/user-attachments/assets/5d27f871-22ad-44aa-b08c-ba6499979b72)
+![IMG_2905](https://github.com/user-attachments/assets/0ce6a4a2-f4e9-4f06-aef5-2061d0ba7ae0)
+
+
 # Descripton
 Bird is a heavily modified version of Crowboard which has been blessed by Doesntfazer | Keyboarddweebs.net himself for the mod. [Crowboard](https://github.com/doesntfazer/CrowBoard) was originally designed by Doesntfazer.
 
 # Sponsorship
-TBA
+Thank you ![PCBWay](https://github.com/user-attachments/assets/2178faa7-9b6d-49e1-9ece-6d3f66e63d75) for sponsoring my "BIRD"!
+For all your PCB and PCBA needs, PCBWay is your only answer. Great customer service and quality PCBs that you cannot rely on.  Highly recommended!
 
 # A List Of Mods Made To The Original files by Doesntfazer:
 
@@ -30,6 +47,16 @@ trackball holder to have notches that latches to the ball. The Ironman cover is 
 -QMK code is borrowed from aki27 bally and modified the matrix to fit my Bird (no pun intended). No suppport will be given since I just copy and paste.
 
 -Use M2 brass hot inserts 3.2mm diameter and 4mm length for the M2 screws to secure the case. I forgot how long is my M2 screws are but they should be greater than 10mm so estimated around 14.6mm. Play around with and buy multiple M2 lenght screws.
+
+# Some Caveats
+
+I printed the Ironman case with parts of the logo imbedded into the USB C case structure and therefore I made the PCB USB C port area extend out a bit but didn't account for the wide of the opening so case doesn't fully close. I will upload the original Bird designed PCB with no mods on the USB C port PCB area. Sponsored PCB was on the Ironman version with changes made to the USB C port PCB. However this version will not be release. Please print the untested "Bird" version. It should work and fit the case. The PCB components and routing designs are the same. As always please print at your own risk.
+
+![IMG_2917](https://github.com/user-attachments/assets/35b6ade9-0c67-4126-a101-c96c5f9f9c93)
+![IMG_2918](https://github.com/user-attachments/assets/afb41cbe-fd9b-419a-8a0b-8723417a7124)
+![IMG_2919](https://github.com/user-attachments/assets/4c1088aa-d98a-49d4-bfb2-18056460d3ba)
+![IMG_2920](https://github.com/user-attachments/assets/c5f6c371-1f5e-4361-abde-e5b1ae9f0ae9)
+
 
 # Renders
 ![IMG_2609](https://github.com/user-attachments/assets/223fefb8-27f1-4b50-b755-11ceb813f4c6)
