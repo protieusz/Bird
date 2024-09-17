@@ -22,7 +22,7 @@ Bird is a heavily modified version of Crowboard which has been blessed by Doesnt
 
 # Sponsorship
 Thank you ![PCBWay](https://github.com/user-attachments/assets/2178faa7-9b6d-49e1-9ece-6d3f66e63d75) for sponsoring my "BIRD"!
-For all your PCB and PCBA needs, PCBWay is your only answer. Great customer service and quality PCBs that you cannot rely on.  Highly recommended!
+For all your PCB and PCBA needs, PCBWay is your only answer. PCBWay take the time to check the BOM file and the component placement file to make sure that it is up to specs. If there are any issues, PCBWay will email back and inform the customer if there are any corrections that need to be made and also provide solutions for the customer. I highly recommend PCBWay. Great customer service and quality PCBs that you cannot rely on.  I highly recommend them!
 
 # A List Of Mods Made To The Original files by Doesntfazer:
 
