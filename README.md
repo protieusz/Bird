@@ -42,7 +42,7 @@ trackball holder to have notches that latches to the ball. The Ironman cover is 
 
 -First time I have the hot swappable Kailh PCB being sponsored. As of Aug 30, 2024, the sponsored PCB is still being assembly. As always print the PCB at your own risk.
 
--Bird is powered by RP2040 Core - A which you can get from AE. I will not provide the link since I don't anything from the sellers at AE if I endorse it here. Do a search in AE.
+-Bird is powered by RP2040 Core - A which you can get from AE. I will not provide the link since I don't get anything from the sellers at AE if I endorse it here. Do a search in AE.
 
 -QMK code is borrowed from aki27 bally and modified the matrix to fit my Bird (no pun intended). No suppport will be given since I just copy and paste.
 
