@@ -50,7 +50,7 @@ trackball holder to have notches that latches to the ball. The Ironman cover is 
 
 # Some Caveats
 
-I printed the Ironman case with parts of the logo imbedded into the USB C case structure and therefore I made the PCB USB C port area extend out a bit but didn't account for the wide of the opening so case doesn't fully close. I will upload the original Bird designed PCB with no mods on the USB C port PCB area. Sponsored PCB was on the Ironman version with changes made to the USB C port PCB. However this version will not be release. Please print the untested "Bird" version. It should work and fit the case. The PCB components and routing designs are the same. As always please print at your own risk.
+I printed the Ironman case with parts of the logo imbedded into the USB C case structure and therefore I made the PCB USB C port area extend out a bit but didn't account for the wide of the opening so case doesn't fully close. I will upload the original Bird designed PCB with no mods on the USB C port PCB area. Sponsored PCB was on the Ironman version with changes made to the USB C port PCB. However this version will not be release. Please print the untested "Bird" version. It should work and fit the case. The PCB components and routing designs are the same. Update: Fixed Bird Bottom case uploaded. Please use this instead of the "Bird Case Step". As always please print at your own risk.
 
 ![IMG_2917](https://github.com/user-attachments/assets/35b6ade9-0c67-4126-a101-c96c5f9f9c93)
 ![IMG_2918](https://github.com/user-attachments/assets/afb41cbe-fd9b-419a-8a0b-8723417a7124)
