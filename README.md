@@ -1,6 +1,9 @@
 # Bird
 Bird, a variant mod of the Crowboard.  39 keys with a 25mm trackball in the center powered by RP2040-Core A.
 
+# Featured On KBDNews
+https://kbd.news/Bird-2471.html
+
 # Full Production Pics
 
 ![IMG_2923](https://github.com/user-attachments/assets/660b9508-8481-4799-aee5-5e8ed14e3aaf)
